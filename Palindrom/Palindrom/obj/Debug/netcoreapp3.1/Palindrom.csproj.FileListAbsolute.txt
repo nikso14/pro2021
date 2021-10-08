@@ -1,0 +1,14 @@
+D:\pro2021\Palindrom\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.csproj.AssemblyReference.cache
+D:\pro2021\Palindrom\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+D:\pro2021\Palindrom\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.AssemblyInfoInputs.cache
+D:\pro2021\Palindrom\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.AssemblyInfo.cs
+D:\pro2021\Palindrom\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.csproj.CoreCompileInputs.cache
+D:\pro2021\Palindrom\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.exe
+D:\pro2021\Palindrom\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.deps.json
+D:\pro2021\Palindrom\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.runtimeconfig.json
+D:\pro2021\Palindrom\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.runtimeconfig.dev.json
+D:\pro2021\Palindrom\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.dll
+D:\pro2021\Palindrom\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.pdb
+D:\pro2021\Palindrom\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.dll
+D:\pro2021\Palindrom\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.pdb
+D:\pro2021\Palindrom\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.genruntimeconfig.cache
