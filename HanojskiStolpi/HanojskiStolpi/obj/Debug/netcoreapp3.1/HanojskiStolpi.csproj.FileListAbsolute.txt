@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\HanojskiStolpi\HanojskiStolpi\bin\Debug\netcoreapp3.1\HanojskiStolpi.exe
+C:\Users\student\source\repos\HanojskiStolpi\HanojskiStolpi\bin\Debug\netcoreapp3.1\HanojskiStolpi.deps.json
+C:\Users\student\source\repos\HanojskiStolpi\HanojskiStolpi\bin\Debug\netcoreapp3.1\HanojskiStolpi.runtimeconfig.json
+C:\Users\student\source\repos\HanojskiStolpi\HanojskiStolpi\bin\Debug\netcoreapp3.1\HanojskiStolpi.runtimeconfig.dev.json
+C:\Users\student\source\repos\HanojskiStolpi\HanojskiStolpi\bin\Debug\netcoreapp3.1\HanojskiStolpi.dll
+C:\Users\student\source\repos\HanojskiStolpi\HanojskiStolpi\bin\Debug\netcoreapp3.1\HanojskiStolpi.pdb
+C:\Users\student\source\repos\HanojskiStolpi\HanojskiStolpi\obj\Debug\netcoreapp3.1\HanojskiStolpi.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\HanojskiStolpi\HanojskiStolpi\obj\Debug\netcoreapp3.1\HanojskiStolpi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\HanojskiStolpi\HanojskiStolpi\obj\Debug\netcoreapp3.1\HanojskiStolpi.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\HanojskiStolpi\HanojskiStolpi\obj\Debug\netcoreapp3.1\HanojskiStolpi.AssemblyInfo.cs
+C:\Users\student\source\repos\HanojskiStolpi\HanojskiStolpi\obj\Debug\netcoreapp3.1\HanojskiStolpi.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\HanojskiStolpi\HanojskiStolpi\obj\Debug\netcoreapp3.1\HanojskiStolpi.dll
+C:\Users\student\source\repos\HanojskiStolpi\HanojskiStolpi\obj\Debug\netcoreapp3.1\HanojskiStolpi.pdb
+C:\Users\student\source\repos\HanojskiStolpi\HanojskiStolpi\obj\Debug\netcoreapp3.1\HanojskiStolpi.genruntimeconfig.cache
