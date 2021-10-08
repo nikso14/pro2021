@@ -10,7 +10,10 @@ namespace nekaj
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("clen 2 " + ClenZap(2));
+            Console.WriteLine(ClenZap(3));
+            Console.WriteLine(nal_4(3));
+            Console.WriteLine(nal_5(3));
+            Console.WriteLine(nal_6(3));
             Console.ReadLine();
         }
 
@@ -23,6 +26,41 @@ namespace nekaj
             return ClenZap(n - 2) * ClenZap(n - 1) - 1;
         }
         
+        static int nal_4(int n)
+        {
+            if (n == 1)
+            {
+                return 2;
+            }
+            return 3 * nal_4(n - 1) + 2;
+        }
+
+        static int nal_5(int n)
+        {
+            if (n == 1)
+            {
+                return 1;
+            }
+            else if(n == 2)
+            {
+                return 2;
+            }
+            return nal_5(n - 1) * 2 + nal_5(n - 2);
+        }
+
+        static int nal_6(int n)
+        {
+            if (n == 1)
+            {
+                return 1;
+            }
+            else if(n == 2)
+            {
+                return 4;
+            }
+            return nal_6(n - 1) + 2;
+        }
+
         static int Fib(int n)
         {
             //rekurzivno izrečuna n-to fibonacijevo število
