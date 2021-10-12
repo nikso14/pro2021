@@ -42,8 +42,8 @@ namespace fraktali
         {
             double stariX = x;
             double stariY = y;
-            x = x + Math.Cos(alfa * Math.PI / 180);
-            y = y + Math.Sin(alfa * Math.PI / 180);
+            x = x + d*Math.Cos(alfa * Math.PI / 180);
+            y = y + d*Math.Sin(alfa * Math.PI / 180);
             int x1 = risaniX(stariX);
             int y1 = risaniY(stariY);
             int x2 = risaniX(x);
@@ -55,8 +55,24 @@ namespace fraktali
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
             Graphics g = e.Graphics;
-            x = 0.5; y = 0.5; alfa = 0;
-            Premik(0.5, g);
+            /*x = 0.5; y = 0.1; alfa = 0;
+            for(int k = 0; k < 6; k++)
+            {
+                double korak = 0.2;
+                Premik(korak, g);
+                ObratLevo(360 / 6);
+            }*/
+
+
+
+            //naključno
+            Random r = new Random();
+            x = 0.5;y = 0.5; alfa = 0;
+            for(int k = 0; k < 1000; k++)
+            {
+                ObratLevo(r.Next(360));
+                Premik(0.1, g);
+            }
         }
     }
 }
