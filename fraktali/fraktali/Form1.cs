@@ -69,6 +69,26 @@ namespace fraktali
 
         }
 
+        public void Drevo(int n, double x, double y, double a, double dolžina, Graphics g)
+        {
+            int kot_upogiba = 45;
+            double pojemek = 0.6;
+            double cx = x + dolžina * Math.Cos(a * Math.PI / 180);
+            double cy = y + dolžina * Math.Sin(a * Math.PI / 180);
+            int x1 = risaniX(cx);
+            int y1 = risaniY(cy);
+            int x2 = risaniX(x);
+            int y2 = risaniY(y);
+            Random r = new Random();
+            Color c = Color.FromArgb(r.Next(255), r.Next(255), 100);
+            Pen p = new Pen(c,(float) Math.Pow(n, 1.2));
+            g.DrawLine(p, x1, y1, x2, y2);
+            if (n == 0) return;
+            Drevo(n - 1, cx, cy, a - kot_upogiba, dolžina * pojemek, g);
+            Drevo(n - 1, cx, cy, a + kot_upogiba, dolžina * pojemek, g);
+            Drevo(n - 1, cx, cy, a, dolžina *(1 - pojemek), g);
+        }
+
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
             Graphics g = e.Graphics;
@@ -95,13 +115,18 @@ namespace fraktali
             */
 
             //koch zvezda
-            x = 0.2;y = 0.2; alfa = 0;
+            /*x = 0.2;y = 0.2; alfa = 0;
             int n = 2;
             for (int k = 0; k < 5; k++)
             {
                 Koch(n, 1 / Math.Pow(3, n)/3, g);
                 ObratLevo(360 / 5);
             }
+            */
+
+            //drevo
+            int n = 5;
+            Drevo(n, 0.5, 0, 90, 0.3, g);
         }
     }
 }
