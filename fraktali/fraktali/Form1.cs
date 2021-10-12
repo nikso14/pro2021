@@ -52,6 +52,23 @@ namespace fraktali
             g.DrawLine(p, x1, y1, x2, y2);
         }
 
+        public void Koch(int n, double korak, Graphics g)
+        {
+            if (n == 0)
+            {
+                Premik(korak, g);
+                return;
+            }
+            Koch(n - 1, korak, g);
+            ObratLevo(60);
+            Koch(n - 1, korak, g);
+            ObratLevo(-120);
+            Koch(n - 1, korak, g);
+            ObratLevo(60);
+            Koch(n - 1, korak, g);
+
+        }
+
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
             Graphics g = e.Graphics;
@@ -66,12 +83,24 @@ namespace fraktali
 
 
             //naključno
-            Random r = new Random();
+
+
+            /*Random r = new Random();
             x = 0.5;y = 0.5; alfa = 0;
             for(int k = 0; k < 1000; k++)
             {
                 ObratLevo(r.Next(360));
                 Premik(0.1, g);
+            }
+            */
+
+            //koch zvezda
+            x = 0.2;y = 0.2; alfa = 0;
+            int n = 2;
+            for (int k = 0; k < 5; k++)
+            {
+                Koch(n, 1 / Math.Pow(3, n)/3, g);
+                ObratLevo(360 / 5);
             }
         }
     }
