@@ -1,0 +1,7 @@
+D:\pro2021\VsšMobile\VsšMobile\bin\Debug\VsšMobile.exe.config
+D:\pro2021\VsšMobile\VsšMobile\bin\Debug\VsšMobile.exe
+D:\pro2021\VsšMobile\VsšMobile\bin\Debug\VsšMobile.pdb
+D:\pro2021\VsšMobile\VsšMobile\obj\Debug\VsšMobile.csproj.AssemblyReference.cache
+D:\pro2021\VsšMobile\VsšMobile\obj\Debug\VsšMobile.csproj.CoreCompileInputs.cache
+D:\pro2021\VsšMobile\VsšMobile\obj\Debug\VsšMobile.exe
+D:\pro2021\VsšMobile\VsšMobile\obj\Debug\VsšMobile.pdb
