@@ -1,0 +1,10 @@
+D:\pro2021\Računanje\Računanje\bin\Debug\Računanje.exe.config
+D:\pro2021\Računanje\Računanje\bin\Debug\Računanje.exe
+D:\pro2021\Računanje\Računanje\bin\Debug\Računanje.pdb
+D:\pro2021\Računanje\Računanje\obj\Debug\Računanje.csproj.AssemblyReference.cache
+D:\pro2021\Računanje\Računanje\obj\Debug\Računanje.Form1.resources
+D:\pro2021\Računanje\Računanje\obj\Debug\Računanje.Properties.Resources.resources
+D:\pro2021\Računanje\Računanje\obj\Debug\Računanje.csproj.GenerateResource.cache
+D:\pro2021\Računanje\Računanje\obj\Debug\Računanje.csproj.CoreCompileInputs.cache
+D:\pro2021\Računanje\Računanje\obj\Debug\Računanje.exe
+D:\pro2021\Računanje\Računanje\obj\Debug\Računanje.pdb
