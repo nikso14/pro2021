@@ -12,6 +12,7 @@ namespace Strukture
         {
             public double x, y, z;
         }
+       
         static void Main(string[] args)
         {
             Vektor v1; //deklaracije
