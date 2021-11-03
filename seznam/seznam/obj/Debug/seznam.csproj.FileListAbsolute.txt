@@ -1,0 +1,10 @@
+D:\pro2021\seznam\seznam\bin\Debug\seznam.exe.config
+D:\pro2021\seznam\seznam\bin\Debug\seznam.exe
+D:\pro2021\seznam\seznam\bin\Debug\seznam.pdb
+D:\pro2021\seznam\seznam\obj\Debug\seznam.Form1.resources
+D:\pro2021\seznam\seznam\obj\Debug\seznam.Properties.Resources.resources
+D:\pro2021\seznam\seznam\obj\Debug\seznam.csproj.GenerateResource.cache
+D:\pro2021\seznam\seznam\obj\Debug\seznam.csproj.CoreCompileInputs.cache
+D:\pro2021\seznam\seznam\obj\Debug\seznam.exe
+D:\pro2021\seznam\seznam\obj\Debug\seznam.pdb
+D:\pro2021\seznam\seznam\obj\Debug\seznam.csproj.AssemblyReference.cache
