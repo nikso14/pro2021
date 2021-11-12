@@ -1,0 +1,10 @@
+D:\pro2021\deljenje z 0\deljenje z 0\bin\Debug\deljenje z 0.exe.config
+D:\pro2021\deljenje z 0\deljenje z 0\bin\Debug\deljenje z 0.exe
+D:\pro2021\deljenje z 0\deljenje z 0\bin\Debug\deljenje z 0.pdb
+D:\pro2021\deljenje z 0\deljenje z 0\obj\Debug\deljenje z 0.csproj.AssemblyReference.cache
+D:\pro2021\deljenje z 0\deljenje z 0\obj\Debug\deljenje_z_0.Form1.resources
+D:\pro2021\deljenje z 0\deljenje z 0\obj\Debug\deljenje_z_0.Properties.Resources.resources
+D:\pro2021\deljenje z 0\deljenje z 0\obj\Debug\deljenje z 0.csproj.GenerateResource.cache
+D:\pro2021\deljenje z 0\deljenje z 0\obj\Debug\deljenje z 0.csproj.CoreCompileInputs.cache
+D:\pro2021\deljenje z 0\deljenje z 0\obj\Debug\deljenje z 0.exe
+D:\pro2021\deljenje z 0\deljenje z 0\obj\Debug\deljenje z 0.pdb

@@ -1,0 +1,10 @@
+D:\pro2021\računanje kvadratnega korena\računanje kvadratnega korena\bin\Debug\računanje kvadratnega korena.exe.config
+D:\pro2021\računanje kvadratnega korena\računanje kvadratnega korena\bin\Debug\računanje kvadratnega korena.exe
+D:\pro2021\računanje kvadratnega korena\računanje kvadratnega korena\bin\Debug\računanje kvadratnega korena.pdb
+D:\pro2021\računanje kvadratnega korena\računanje kvadratnega korena\obj\Debug\računanje kvadratnega korena.csproj.AssemblyReference.cache
+D:\pro2021\računanje kvadratnega korena\računanje kvadratnega korena\obj\Debug\računanje_kvadratnega_korena.Form1.resources
+D:\pro2021\računanje kvadratnega korena\računanje kvadratnega korena\obj\Debug\računanje_kvadratnega_korena.Properties.Resources.resources
+D:\pro2021\računanje kvadratnega korena\računanje kvadratnega korena\obj\Debug\računanje kvadratnega korena.csproj.GenerateResource.cache
+D:\pro2021\računanje kvadratnega korena\računanje kvadratnega korena\obj\Debug\računanje kvadratnega korena.csproj.CoreCompileInputs.cache
+D:\pro2021\računanje kvadratnega korena\računanje kvadratnega korena\obj\Debug\računanje kvadratnega korena.exe
+D:\pro2021\računanje kvadratnega korena\računanje kvadratnega korena\obj\Debug\računanje kvadratnega korena.pdb
