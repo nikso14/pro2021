@@ -1,0 +1,7 @@
+D:\pro2021\Binarne_datoteke\Binarne_datoteke\bin\Debug\Binarne_datoteke.exe.config
+D:\pro2021\Binarne_datoteke\Binarne_datoteke\bin\Debug\Binarne_datoteke.exe
+D:\pro2021\Binarne_datoteke\Binarne_datoteke\bin\Debug\Binarne_datoteke.pdb
+D:\pro2021\Binarne_datoteke\Binarne_datoteke\obj\Debug\Binarne_datoteke.csproj.AssemblyReference.cache
+D:\pro2021\Binarne_datoteke\Binarne_datoteke\obj\Debug\Binarne_datoteke.csproj.CoreCompileInputs.cache
+D:\pro2021\Binarne_datoteke\Binarne_datoteke\obj\Debug\Binarne_datoteke.exe
+D:\pro2021\Binarne_datoteke\Binarne_datoteke\obj\Debug\Binarne_datoteke.pdb
