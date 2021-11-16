@@ -1,0 +1,7 @@
+D:\pro2021\Vaja_deserializacija\Vaja_deserializacija\bin\Debug\Vaja_deserializacija.exe.config
+D:\pro2021\Vaja_deserializacija\Vaja_deserializacija\bin\Debug\Vaja_deserializacija.exe
+D:\pro2021\Vaja_deserializacija\Vaja_deserializacija\bin\Debug\Vaja_deserializacija.pdb
+D:\pro2021\Vaja_deserializacija\Vaja_deserializacija\obj\Debug\Vaja_deserializacija.csproj.AssemblyReference.cache
+D:\pro2021\Vaja_deserializacija\Vaja_deserializacija\obj\Debug\Vaja_deserializacija.csproj.CoreCompileInputs.cache
+D:\pro2021\Vaja_deserializacija\Vaja_deserializacija\obj\Debug\Vaja_deserializacija.exe
+D:\pro2021\Vaja_deserializacija\Vaja_deserializacija\obj\Debug\Vaja_deserializacija.pdb
